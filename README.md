@@ -24,7 +24,6 @@ The drivers were tested on STM32F413ZH Nucleo-144 containing ARM Cortex M4 and t
 
 
 The reference manual RM0430 for ARM cortex M4 can be found <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f413zh.html#documentation)https://www.st.com/en/microcontrollers-microprocessors/stm32f413zh.html#documentation">here</a>. \
-The usermanual of the board can be found <a href="https://www.digikey.ch/htmldatasheets/production/2264408/0/0/1/stm32-nucleo-144-user-manual.html)https://www.digikey.ch/htmldatasheets/production/2264408/0/0/1/stm32-nucleo-144-user-manual.html">here</a> \
-The datasheet of the board can be found <a href="https://datasheetspdf.com/datasheet/STM32F413ZH.html)https://datasheetspdf.com/datasheet/STM32F413ZH.html">here</a>.\
+The links to datasheet and usermanual of the board can be found <a href="https://community.element14.com/products/devtools/product-pages/w/documents/22502/stm32-nucleo-144-development-board-with-stm32f413zh-mcu">here</a>.
 
 I couldn't find all the documents on the board's product page at ST's official website.
