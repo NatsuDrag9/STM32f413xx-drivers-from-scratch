@@ -1,0 +1,3 @@
+usr_stm32f413xx_rcc.c:16:10:RCC_GetPLLOutputClock	16	static
+usr_stm32f413xx_rcc.c:35:10:RCC_GetPCLK1Value	24	static
+usr_stm32f413xx_rcc.c:88:10:RCC_GetPCLK2Value	24	static
