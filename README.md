@@ -7,11 +7,11 @@ The drivers for the following peripherals in any STM32F413XX are implemented:\
 4.) USARTx (x = 1, 2, 3, 6)\
 5.) UARTx (x = 4, 5, 7, 8, 9, 10)
 
-![Drivers](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/blob/main/uml-images/Drivers.png)
+file:///home/rohitimandi/Desktop/Rohit/Personal/Online%20Project%20Uploads/Github/Embedded%20Systems/STM32f413xx-drivers-from-scratch/uml-images/Drivers.png
 
-![GPIO_APIs](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/blob/main/uml-images/GPIO_APIs.png)
+![GPIO_APIs](./uml-images/GPIO_APIs.png)
 
-![SPI_APIs](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/blob/main/uml-images/SPI_APIs.png)
+![SPI_APIs](./uml-images/SPI_APIs.png)
 
 ![I2C_APIs](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/blob/main/uml-images/I2C_APIs.png)
 
@@ -40,6 +40,7 @@ The header file for peripheral driver implementation at ./drivers/inc/ contains:
 ![USART_Handle](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/blob/main/uml-images/USART_Handle_Structure.png)
 
 The drivers were tested on STM32F413ZH Nucleo-144 containing ARM Cortex M4 and the communication protocols were tested with an Arduino Uno Rev3.
+
 ---
 
 The reference manual RM0430 for ARM cortex M4 can be found <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f413zh.html#documentation)https://www.st.com/en/microcontrollers-microprocessors/stm32f413zh.html#documentation">here</a>. \
