@@ -1,13 +1,13 @@
 # STM32f413xx-drivers-from-scratch
 
+![Drivers](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/assets/38008375/4df6c96d-089f-4864-8483-4b99ee9bdeff)
+
 The drivers for the following peripherals in any STM32F413XX are implemented:\
 1.) GPIOx (x = A, B, C, D, E, F, G, H)\
 2.) SPIx (x = 1, 2, 3, 4)\
 3.) I2Cx (x = 1, 2, 3)\
 4.) USARTx (x = 1, 2, 3, 6)\
 5.) UARTx (x = 4, 5, 7, 8, 9, 10)
-
-![Drivers](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/assets/38008375/4df6c96d-089f-4864-8483-4b99ee9bdeff)
 
 ![GPIO_APIs](https://github.com/NatsuDrag9/STM32f413xx-drivers-from-scratch/assets/38008375/5636dc0a-2f87-444f-bacf-a1ad5066183b)
 
