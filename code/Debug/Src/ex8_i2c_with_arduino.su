@@ -1,0 +1,5 @@
+ex8_i2c_with_arduino.c:38:6:delay	16	static
+ex8_i2c_with_arduino.c:43:6:GPIO_Btn_Init	24	static
+ex8_i2c_with_arduino.c:58:6:I2C1_GPIOInits	24	static
+ex8_i2c_with_arduino.c:78:6:I2C1_Inits	8	static
+ex8_i2c_with_arduino.c:88:5:main	16	static

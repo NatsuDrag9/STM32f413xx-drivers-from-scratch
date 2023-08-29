@@ -1,0 +1,8 @@
+ex9_i2c_with_arduino_interrupts.c:37:6:delay	16	static
+ex9_i2c_with_arduino_interrupts.c:42:6:GPIO_Btn_Init	24	static
+ex9_i2c_with_arduino_interrupts.c:57:6:I2C1_GPIOInits	24	static
+ex9_i2c_with_arduino_interrupts.c:77:6:I2C1_Inits	8	static
+ex9_i2c_with_arduino_interrupts.c:88:6:I2C1_EVT_IRQHandler	8	static
+ex9_i2c_with_arduino_interrupts.c:93:6:I2C1_ERR_IRQHandler	8	static
+ex9_i2c_with_arduino_interrupts.c:98:6:I2C_ApplicationEventCallback	16	static
+ex9_i2c_with_arduino_interrupts.c:119:5:main	24	static
