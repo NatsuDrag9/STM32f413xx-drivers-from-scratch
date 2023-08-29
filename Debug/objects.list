@@ -1,8 +1,0 @@
-"./Src/ex10_usart_with_arduino.o"
-"./Src/sysmem.o"
-"./Startup/startup_stm32f413zhtx.o"
-"./drivers/src/usr_stm32f413xx_gpio_driver.o"
-"./drivers/src/usr_stm32f413xx_i2c_driver.o"
-"./drivers/src/usr_stm32f413xx_rcc.o"
-"./drivers/src/usr_stm32f413xx_spi_driver.o"
-"./drivers/src/usr_stm32f413xx_usart_driver.o"

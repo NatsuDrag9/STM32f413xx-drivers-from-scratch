@@ -1,3 +1,0 @@
-ex3_led_toggle_interrupt.c:16:6:delay	16	static
-ex3_led_toggle_interrupt.c:21:5:main	32	static
-ex3_led_toggle_interrupt.c:59:6:EXTI15_10_IRQHandler	8	static

@@ -1,5 +1,0 @@
-ex10_usart_with_arduino.c:33:6:delay	16	static
-ex10_usart_with_arduino.c:38:6:GPIO_Btn_Init	24	static
-ex10_usart_with_arduino.c:53:6:USART6_GPIOInits	24	static
-ex10_usart_with_arduino.c:73:6:USART6_Inits	8	static
-ex10_usart_with_arduino.c:92:5:main	16	static
