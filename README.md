@@ -1,7 +1,7 @@
 # STM32f413xx-drivers-from-scratch
 
 To run the code:
-1.) Install STM32CubeIDE from [here]url(https://www.st.com/en/development-tools/stm32cubeide.html)
+1.) Install STM32CubeIDE from ![here]url(https://www.st.com/en/development-tools/stm32cubeide.html)
 2.) Clone the repo and change to the ```code``` directory
 3.) Build and run the project
 
@@ -9,4 +9,4 @@ The drivers were tested on STM32F413ZH Nucleo-144 containing ARM Cortex M4 and t
 
 ---
 
-[Medium Article]url(https://rohitimandi.medium.com/drivers-from-scratch-for-stm32f413xx-3ebb03ed7791)
+![Medium Article]url(https://rohitimandi.medium.com/drivers-from-scratch-for-stm32f413xx-3ebb03ed7791)
