@@ -19,14 +19,14 @@ The drivers for the following peripherals in any STM32F413XX are implemented:\
 
 ---
 
-The MCU header file usr_stm32f413xx.h at ./drivers/inc/ contains:\
+The MCU header file usr_stm32f413xx.h at ./code/drivers/inc/ contains:\
 1.) Base addresses of flash, SRAM1, ROM, peripheral buses and the various peripherals\
 2.) Peripheral register definition structure and peripheral definitions\
 3.) System clock and peripheral clock enable/disable\
 4.) Peripheral interrupt position number in the vector table\
 5.) Bit positions of various registers for all peripherals
 
-The header file for peripheral driver implementation at .code/drivers/inc/ contains:\
+The header file for peripheral driver implementation at ./code/drivers/inc/ contains:\
 1.) Peripheral handle structure\
 2.) Peripheral configuration structure\
 3.) API prototypes\
