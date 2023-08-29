@@ -8,4 +8,4 @@ To run the code:
 
 The drivers were tested on STM32F413ZH Nucleo-144 containing ARM Cortex M4 and the communication protocols were tested with an Arduino Uno Rev3. So, I cannot guarantee for other MCUs.
 
-This [Medium Article](https://rohitimandi.medium.com/drivers-from-scratch-for-stm32f413xx-3ebb03ed7791) describes the structure and of the project.
+This [Medium Article](https://rohitimandi.medium.com/drivers-from-scratch-for-stm32f413xx-3ebb03ed7791) describes the structure of the project.
