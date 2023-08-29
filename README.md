@@ -1,6 +1,7 @@
 # STM32f413xx-drivers-from-scratch
 
 To run the code:
+
 1.) Install STM32CubeIDE from ![here](https://www.st.com/en/development-tools/stm32cubeide.html)<br />
 2.) Clone the repo and change to the ```code``` directory<br />
 3.) Build and run the project
